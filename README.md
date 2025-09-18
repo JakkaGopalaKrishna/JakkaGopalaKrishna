@@ -11,23 +11,21 @@
 🌱 Exploring **AI/LLMs** to build intelligent next-gen apps  
 💡 Eager to tackle tough problems with **clean, creative code**  
 🎨 Tech I love: **React, Expo, Tailwind, Python, Express, LLMs**  
-📧 [Email](mailto:jakkakrishna2003@gmail.com)  
-🌐 [Portfolio](https://jgopalakrishna-portfolio.netlify.app/)  
 
 ---
 
 ## 📬 Contact Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:jakkakrishna2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gopala-krishna-jakka-294a3b2a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/JakkaGopalaKrishna" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jgopalakrishna-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-03b1fc?style=for-the-badge&logo=profile&logoColor=white"/>
   </a>
@@ -40,28 +38,32 @@
 <p align="left">
   <a href="https://leetcode.com/u/gopala_4296/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/jakkakrishna2003" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" alt="HackerRank"/>
-  </a>
-  <a href="https://www.codechef.com/users/gopala_4296" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521354-2944792.png" width="40" alt="CodeChef"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/jakkakrismmj7/" target="_blank">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/jakkakrishna2003" target="_blank" >
+    <img src="https://img.favpng.com/25/19/5/hackerrank-computer-programming-programmer-logo-interview-png-favpng-cCaqcTRb3LNhxuM4FP2L34K7w_t.jpg" width="40" alt="HackerRank"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/gopala_4296" target="_blank" >
+    <img src="https://aaruush22-bucket.s3.ap-south-1.amazonaws.com/sponsors/codechef-0074fa6e.webp" width="40" alt="CodeChef"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/jakkakrismmj7/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GeeksforGeeks"/>
   </a>
 </p>
 
 ---
-
+# ⚙️ GitHub
 ## 📈 GitHub Stats
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JakkaGopalaKrishna&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
+</p>
+
+## 📅 GitHub Streak
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakkaGopalaKrishna&theme=tokyonight" width="49%" />
 </p>
 
-<p align="center">
+## 🖋️ GitHub Language
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakkaGopalaKrishna&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
@@ -86,21 +88,25 @@
 ## 📂 Featured Projects
 
 ### 🌐 Live Projects
-- [Portfolio](https://jgopalakrishna-portfolio.netlify.app/) – Personal portfolio website  
-- [World Wide Cars](https://jakkagopalakrishna.github.io/WorldWideCars/) – Car brands showcase with cart & favorites  
-- [Maze Coin Hunt](https://jakkagopalakrishna.github.io/Maze_Coin_Hunt/) – Maze-based coin collection game  
-- [TIC TAC TOE](https://jakkagopalakrishna.github.io/TIC_TAC_TOE/) – Classic Tic Tac Toe game  
-- [Stock Predictor](https://jgopalakrishna-deeplearn-stockpredictor.streamlit.app/) – AI stock price prediction  
-- [Resume Sense](https://jgopalakrishna-machinelearn-resumesense.streamlit.app/) – Resume scoring AI tool  
-- [Diabetes Predictor](https://jgopalakrishna-machine-learning-diabetes-predictor.streamlit.app/) – ML-based health predictor  
+
+| Project Link | Description |
+|--------|-------------|
+| [Portfolio](https://jgopalakrishna-portfolio.netlify.app/) | A personal portfolio website showcasing skills, projects, and contact details. |
+| [World Wide Cars](https://jakkagopalakrishna.github.io/WorldWideCars/) | A car brand showcase app with cart and favorite functionality. |
+| [Diabetes Predictor](https://gopalakrishnaj-machine-learning-diabetes-predictor.streamlit.app/) | A machine learning app that predicts diabetes risk based on health data. |
+| [Stock Predictor](https://gopalakrishnaj-deeplearn-stockpredictor.streamlit.app/) | AI-powered web app to forecast stock prices using deep learning. |
+| [Resume Sense](https://gopalakrishnaj-machinelearn-resumesense.streamlit.app/) | AI tool that scores resumes based on job relevance. |
+| [Maze Coin Hunt](https://jakkagopalakrishna.github.io/Maze_Coin_Hunt/) | A simple browser game where players collect coins in a maze. |
+| [TIC TAC TOE](https://jakkagopalakrishna.github.io/TIC_TAC_TOE/) | A browser-based version of the classic Tic Tac Toe game. |
+| [Programming Courses](https://jakkagopalakrishna.github.io/Programming_Courses/) | A curated collection of programming learning courses. |
+| [Math Bot](https://jakkagopalakrishna.github.io/Math_Bot/) | An interactive bot that helps with math practice and problem-solving. |
 
 ### 💻 GitHub Repositories
-- [Farmer Bazaar](https://github.com/JakkaGopalaKrishna/Farmer_Bazaar) – Marketplace connecting farmers to customers  
-- [World Wide Cars](https://github.com/JakkaGopalaKrishna/WorldWideCars)  
-- [Maze Coin Hunt](https://github.com/JakkaGopalaKrishna/Maze_Coin_Hunt)  
-- [Contact Book](https://github.com/JakkaGopalaKrishna/Contact_Book)  
-- [TIC TAC TOE](https://github.com/JakkaGopalaKrishna/TIC_TAC_TOE)  
-- [MCQ_S](https://github.com/JakkaGopalaKrishna/MCQ_S)  
+| Repositorie Link | Description |
+|--------|-------------|
+| [Farmer Bazaar](https://github.com/JakkaGopalaKrishna/Farmer_Bazaar) | A marketplace web app connecting farmers directly to customers.  |
+| [Contact Book](https://github.com/JakkaGopalaKrishna/Contact_Book)  |GUI application built with Python for managing contacts. |
+| [MCQ_S](https://github.com/JakkaGopalaKrishna/MCQ_S)  |GUI application built with Java for practicing multiple-choice questions.|
 
 ---
 
