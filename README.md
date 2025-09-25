@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JakkaGopalaKrishna&label=Profile%20views&color=0e75b6&style=flat" alt="JakkaGopalaKrishna" /> </p>   
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hi%20I'm%20Jakka%20Gopala%20Krishna👋&fontSize=45&fontColor=ffffff)
 
 <h2 align="center">🚀 Aspiring Full-Stack Developer | AI/ML Enthusiast | B.Tech 4th Year</h2>
@@ -66,6 +68,17 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakkaGopalaKrishna&layout=compact&theme=tokyonight" width="40%"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+<HR>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JakkaGopalaKrishna&theme=darkhub" alt="JakkaGopalaKrishna" />
+  </a> 
+</p>
+</HR>
 
 ---
 
