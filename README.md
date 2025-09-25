@@ -69,6 +69,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakkaGopalaKrishna&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
+## 📈 Github Profile Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakkaGopalaKrishna&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="3D contribution graph animation" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
