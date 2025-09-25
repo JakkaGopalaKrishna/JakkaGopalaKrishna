@@ -70,7 +70,7 @@
 </p>
 
 ## 📈 Github Profile Summary Cards
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakkaGopalaKrishna&theme=radical" />
 </p>
 
@@ -124,11 +124,13 @@
 | [TIC TAC TOE](https://jakkagopalakrishna.github.io/TIC_TAC_TOE/) | A browser-based version of the classic Tic Tac Toe game. |
 | [Programming Courses](https://jakkagopalakrishna.github.io/Programming_Courses/) | A curated collection of programming learning courses. |
 | [Math Bot](https://jakkagopalakrishna.github.io/Math_Bot/) | An interactive bot that helps with math practice and problem-solving. |
+|[phishguard](https://gopalakrishnaj-phishguard.streamlit.app/) | A phishing detection tool that uses machine learning to identify potentially malicious URLs and protect users from phishing attacks. |
 
 ### 💻 GitHub Repositories
 | Repositorie Link | Description |
 |--------|-------------|
 | [Farmer Bazaar](https://github.com/JakkaGopalaKrishna/Farmer_Bazaar) | A marketplace web app connecting farmers directly to customers.  |
+| [Job_Path](https://github.com/JakkaGopalaKrishna/Job_Path) | A full-stack job assistance app with job listings, skill recommendations, resume uploads, and an integrated AI chatbot. Built using React Native, Node.js, Express, and MongoDB.  |
 | [Contact Book](https://github.com/JakkaGopalaKrishna/Contact_Book)  |GUI application built with Python for managing contacts. |
 | [MCQ_S](https://github.com/JakkaGopalaKrishna/MCQ_S)  |GUI application built with Java for practicing multiple-choice questions.|
 
